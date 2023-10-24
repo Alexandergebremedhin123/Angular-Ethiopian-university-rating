@@ -1,0 +1,72 @@
+<div class="container">
+    <div class="row">
+        <div class="col">
+         
+
+        </div>
+    </div>
+</div>
+
+
+<div *ngIf="!loading&&errorMessage">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <p class="h4 text-danger fw-bold">{{errorMessage}}</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div>
+
+</div>
+
+<div class="container mt-4" *ngIf="!loading&& name.length>0">
+    <div class="row">
+        <div class="col-md-6" *ngFor="let name of name">
+            <div class="card list-group-item-danger shadow-lg my-2">
+                <div class="card-body">
+                        <div class="row align-items-center">
+                            <div class="col">
+                            
+                                <img class="images" [src]="name.photo"  alt="no image" width="150" height="130"/>
+                                
+                                <div class="col">
+                                    <ul class="list-group" >
+                                       <li class="list-group-item">Rate: <span class="fw-bold">{{name.rating}}/5:</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: green;">*Average rate is {{name.AvRate}}/5</span></li>
+                                       <li class="list-group-item" >Number of people rating: <span  class="fw-bold" >{{name.NoOfRating}}</span></li>
+                                    
+                                    </ul>
+                            </div>
+                            </div>
+
+                         
+                            <div class="col-sm-1 d-flex flex-column justify-content-center align-items-center">
+                            
+                                <a  class="btn btn-warning " >
+                                    <span id="1" class="fa fa-star unchecked"  (click)="clickEvent1(name.id)" [ngClass]="statusID1&&name.id==id?'fa fa-star checked':'fa fa-star unchecked'" ></span>
+                                </a>
+                                 <a class="btn btn-warning " >
+                                    <span id="2" class="fa fa-star unchecked" (click)="clickEvent2(name.id)"  [ngClass]="statusID2&&name.id==id?'fa fa-star checked':'fa fa-star unchecked'"></span>
+                                </a>
+                                <a class="btn btn-warning ">
+                                    <span id="3" class="fa fa-star unchecked" (click)="clickEvent3(name.id)" [ngClass]="statusID3&&name.id==id?'fa fa-star checked':'fa fa-star unchecked'"></span>
+                                </a>
+                                    <a  class="btn btn-warning">
+                                    <span id="4" class="fa fa-star unchecked" (click)="clickEvent4(name.id)" [ngClass]="statusID4&&name.id==id?'fa fa-star checked':'fa fa-star unchecked'"></span>
+                                </a>
+                                <a  class="btn btn-warning">
+                                    <span id="5" class="fa fa-star unchecked" (click)="clickEvent5(name.id)" [ngClass]="statusID5&&name.id==id?'fa fa-star checked':'fa fa-star unchecked'"></span>
+                                </a>
+                               
+                              <button class="btn btn-warning my-1" (click)="saveRate(name.name,name.photo,name.rating,name.totRate,name.AvRate,name.NoOfRating,name.id)">
+                                   Save the rating
+                                </button>
+
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>     

@@ -1,0 +1,364 @@
+{
+  "Names": [
+    {
+      "name": "Addis Ababa university",
+      "photo": "/assets/Addis_Ababa_university.jpg",
+      "rating": "4",
+      "totRate": "7",
+      "AvRate": "3.5",
+      "NoOfRating": "2",
+      "id": "1"
+    },
+    {
+      "name": "Mekelle University",
+      "photo": "/assets/Mekelle university.jpg",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0",
+      "id": "2"
+    },
+    {
+      "name": "Bahir Dar University",
+      "photo": "/assets/Bahir dar university.jpg",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0",
+      "id": "3"
+    },
+    {
+      "name": "Jimma University",
+      "photo": "/assets/Jimma university.jpg",
+      "id": "4",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Hawassa University",
+      "photo": "/assets/Hawassa university.jpg",
+      "id": "5",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Haramaya University",
+      "photo": "/assets/Haramaya university.jpg",
+      "id": "6",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Arba Minch University",
+      "photo": "/assets/Arba minch university.jpg",
+      "id": "7",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Debre Markos University",
+      "photo": "/assets/Debre markos university.jpg",
+      "id": "8",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Wolaita Sodo University",
+      "photo": "/assets/Wolaita sodo university.jpg",
+      "id": "9",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Arsi University",
+      "photo": "/assets/Arsi university.jpg",
+      "id": "10",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Adama Science & Technology University",
+      "photo": "/assets/Adama science and technology university.jpg",
+      "id": "11",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Addis Ababa Science and Technology University",
+      "photo": "/assets/Addis ababa science and technology university.jpg",
+      "id": "12",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Wachemo University",
+      "photo": "/assets/Wachamo university.jpg",
+      "id": "13",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Saint Mary’s University",
+      "photo": "/assets/St.mary university.jpg",
+      "id": "14",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Ambo University",
+      "photo": "/assets/Ambo university.jpg",
+      "id": "15",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Ethiopian Civil Service University",
+      "photo": "/assets/ECSU.jpg",
+      "id": "16",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Debre Berhan University",
+      "photo": "/assets/Debre berhan university.jpg",
+      "id": "17",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Rift Valley University",
+      "photo": "/assets/Rift valley university.jpg",
+      "id": "18",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Adigrat University",
+      "photo": "/assets/Adigrat university.jpg",
+      "id": "19",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Dire Dawa University",
+      "photo": "/assets/Dire Dawa university.jpg",
+      "id": "20",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Kebri Dehar University",
+      "photo": "/assets/Kebri dehar university.jpg",
+      "id": "21",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Wolkite University",
+      "photo": "/assets/Wolkite university.jpg",
+      "id": "22",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Assosa University",
+      "photo": "/assets/Assosa university.jpg",
+      "id": "23",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Jigjiga University",
+      "photo": "/assets/Jigjiga university.jpg",
+      "id": "24",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Dilla University",
+      "photo": "/assets/Dilla university.jpg",
+      "id": "25",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Madawalabu University",
+      "photo": "/assets/Madda walabu university.jpg",
+      "id": "26",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Mizan Tepi University",
+      "photo": "/assets/Mizan tepi university.jpg",
+      "id": "27",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Samara University",
+      "photo": "/assets/Samara university.jpg",
+      "id": "28",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Kotebe Metropolitan University",
+      "photo": "/assets/Kotebe metropolitan university.jpg",
+      "id": "29",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Wollega University",
+      "photo": "/assets/Wollega university.jpg",
+      "id": "30",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Bule Hora University",
+      "photo": "/assets/Bule Hora university.jpg",
+      "id": "31",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Woldia University",
+      "photo": "/assets/Woldia university.jpg",
+      "id": "32",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Debre Tabor University",
+      "photo": "/assets/Debre tabor university.jpg",
+      "id": "33",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Mettu University",
+      "photo": "/assets/Mettu university.jpg",
+      "id": "34",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Unity University",
+      "photo": "/assets/unity university.jpg",
+      "id": "35",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Admas University",
+      "photo": "/assets/Admas university.jpg",
+      "id": "36",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Wollo University",
+      "photo": "/assets/Wollo university.jpg",
+      "id": "37",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Oromia State University",
+      "photo": "/assets/Oromia state university.jpg",
+      "id": "38",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Oda Bultum University",
+      "photo": "/assets/Oda bultum university.jpg",
+      "id": "39",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    },
+    {
+      "name": "Injibara University",
+      "photo": "/assets/Injibara university.jpg",
+      "id": "40",
+      "rating": "",
+      "totRate": "0",
+      "AvRate": "0",
+      "NoOfRating": "0"
+    }
+  ]
+}
