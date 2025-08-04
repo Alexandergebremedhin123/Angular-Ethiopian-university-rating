@@ -8,7 +8,7 @@ import { HttpErrorResponse } from '@angular/common/http';
 })
 export class RatingService {
 
-  private static serverUrl:string="http://localhost:9000";
+  private static serverUrl:string="https://angular-ethiopian-university-rating-1.onrender.com";
   private static frontUrl:string="http://localhost:4200";
   public statusID1:boolean=false;
 
