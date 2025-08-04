@@ -148,7 +148,7 @@ public saveRate(name:string|undefined,photo:string|undefined,rating:string,totra
     AvRate=totRate/rate;
     let SAvRate:string=AvRate.toString();
     let StotRate:string=totRate.toString();
-    this.http.put(`http://localhost:9000/Names/${universityId}`,{name:name,
+    this.http.put(`https://angular-ethiopian-university-rating-1.onrender.com/Names/${universityId}`,{name:name,
     photo: photo,
     rating:this.rating,
     totRate:StotRate,
